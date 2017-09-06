@@ -1,2 +1,2 @@
 # cgwiki
-on simon96.online
+hello,wiki
