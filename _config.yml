@@ -7,16 +7,16 @@ keywords: simonhe,wiki,CG,pipline
 description: Everything about CG
 author: Simon_He
 
-root: E:/git_work/cgwiki
+root: /cgwiki
 source: content
 destination: output
 themes_dir: themes
 theme: simple2
 
 category:
-  - name: test1
+  - name: linux
     label: Linux/运维
-  - name: test2
+  - name: database
     label: 数据库
 
 default_ext: md
